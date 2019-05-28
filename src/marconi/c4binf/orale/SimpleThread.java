@@ -27,7 +27,6 @@ public class SimpleThread {
 			// use the global instance of the progress bar
 			progressBar.show();
 		}
-		
 	}
 
 	public static void main(String[] args) {
